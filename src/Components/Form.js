@@ -21,6 +21,7 @@ function Form({ addTodo }) {
                             onChange={handleInputChange}
                             type="text"
                             placeholder="Enter something to do..."
+                            id="input"
                         />
                     </div>
 
